@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de3b48c9-8204-4ba1-b935-668fb1f50ade" name="Default Changelist" comment="" />
+    <list default="true" id="de3b48c9-8204-4ba1-b935-668fb1f50ade" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shop/instruments/Drum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shop/instruments/Drum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shop/parts/DrumSticks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shop/parts/DrumSticks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shop/parts/GuitarStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shop/parts/GuitarStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shop/parts/SheetMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shop/parts/SheetMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/parts/DrumStickTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/parts/DrumStickTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/parts/GuitarStringsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/parts/GuitarStringsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/parts/SheetMusicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/parts/SheetMusicTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -25,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZiZ8PAD8eAlwBf3iuq3mzamglv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
@@ -99,11 +114,13 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1585400974966">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state x="533" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1585434013285">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="533" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1440.827@0.23.1440.827" timestamp="1585329196192" />
     <state x="533" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1440.828@0.23.1440.828" timestamp="1585336919854" />
+    <state x="533" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1440.829@0.23.1440.829" timestamp="1585434013285" />
+    <state x="533" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1585431164323" />
     <state x="533" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1440.831@0.23.1440.831" timestamp="1585400974966" />
     <state x="458" y="219" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585326573293">
       <screen x="0" y="23" width="1440" height="827" />
@@ -117,25 +134,29 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="486" y="324" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.827@0.23.1440.827" timestamp="1585329336386" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1585401358044">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1585432092934">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1585337493016" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1585432092934" />
     <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1585401358044" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1585401358044">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1585432092933">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1585337493015" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1585432092933" />
     <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1585401358044" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1585401358043">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1585432092933">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1585337493015" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1585432092933" />
     <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1585401358043" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1585401358044">
-      <screen x="0" y="23" width="1440" height="831" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1585432092933">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1585337493015" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1585432092933" />
     <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1585401358044" />
     <state x="499" y="170" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585326546073">
       <screen x="0" y="23" width="1440" height="827" />

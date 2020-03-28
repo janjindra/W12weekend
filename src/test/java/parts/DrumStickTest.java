@@ -10,7 +10,7 @@ public class DrumStickTest {
 
     @Test
     public void canGetDrumSticksDetails(){
-        DrumSticks drumSticks = new DrumSticks("drum sticks", 22, 33);
+        DrumSticks drumSticks = new DrumSticks("drum sticks", 22, 33,15);
         assertEquals("drum sticks", drumSticks.getProductName());
         assertEquals(22, drumSticks.getPurchasePrice(),0);
         assertEquals(33, drumSticks.getSellingPrice(),0);
@@ -18,7 +18,7 @@ public class DrumStickTest {
 
     @Test
     public void calculateMarkup(){
-        DrumSticks drumSticks = new DrumSticks("drum sticks", 22, 33);
+        DrumSticks drumSticks = new DrumSticks("drum sticks", 22, 33,15);
         assertEquals(11,drumSticks.markUp(),0);
     }
 

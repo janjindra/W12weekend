@@ -13,16 +13,19 @@ public class Drum extends Instrument implements IPlay {
         this.numberOfSticks=numberOfStrings;
     }
 
-
-
     //methods
     public String play(){
         return "Boom Booom Boom";
     }
 
 
-    //getters
+    //getters & setters
     public int getNumberOfSticks() {
         return numberOfSticks;
     }
+
+    public void setNumberOfSticks(int numberOfSticks) {
+        this.numberOfSticks = numberOfSticks;
+    }
 }
+
